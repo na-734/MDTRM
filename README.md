@@ -1,7 +1,5 @@
 # Nizar Aallalou's Midterm Assignemnt
 
----
-
 ## Branching & Merging
 
 ### git merge <branch-name>
@@ -27,19 +25,5 @@ Applies the provided commit of one branch to the other.
 
 **Narrative:**  
 Meant for porting minor features or significant bug fixes from one branch to another without the need to merge the entire branch.
-
----
-
-## Collaborating with Remote Repositories
-
-### git remote -v
-```bash
-git remote -v
-```
-**What It Does:**  
-Shows the URL of the remote repo of your local repo.
-
-**Narrative:**  
-Check where your code is being pulled or pushed from -- handy in verifying remote setup.
 
 ---

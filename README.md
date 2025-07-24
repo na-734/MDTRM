@@ -1,7 +1,5 @@
 # Nizar Aallalou's Midterm Assignemnt
 
----
-
 ## Branching & Merging
 
 ### git merge <branch-name>
